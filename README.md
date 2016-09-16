@@ -15,4 +15,5 @@ cd "repository name"
 git add "filename"   <-- make a version/stage locally (does not push it to github)
 git commit -m" message"  <--adds versioning control, descirbe what the changes were (does not push it to github)
 
+git pull  <-- checks that you have the latest online version
 git push  <--publishes it to the git repository online
